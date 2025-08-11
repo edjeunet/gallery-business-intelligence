@@ -1,4 +1,4 @@
-# Gallery Business Intelligence 🎨
+# Gallery Business Intelligence
 
 A comprehensive business intelligence dashboard for art gallery operations, featuring customer segmentation, exhibition impact analysis, and inventory optimization using Python, Streamlit, and machine learning.
 
