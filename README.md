@@ -20,11 +20,13 @@ Business intelligence dashboard for art gallery operations: customer segmentatio
 - **Deployment**: Streamlit Cloud
 
 ## Repository Structure
-```├── data/           # Raw and processed datasets
+```
+├── data/           # Raw and processed datasets
 ├── src/            # Core analytics modules
 ├── dashboard/      # Streamlit application
 ├── notebooks/      # Exploratory analysis
-└── docs/           # Documentation```
+└── docs/           # Documentation
+```
 
 ## Status
 🚧 Phase 1: Data Foundation (In Progress)
