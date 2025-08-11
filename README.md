@@ -1,6 +1,6 @@
 # Gallery Bookshop Business Intelligence
 
-A comprehensive business intelligence dashboard for art gallery retail operations, analyzing sales of books, prints, and merchandise rather than artwork, featuring customer segmentation, exhibition impact analysis, and inventory optimization using Python, Streamlit, and machine learning.
+A comprehensive business intelligence dashboard for art gallery retail operations, analyzing sales of books, prints, and merchandise, featuring customer segmentation, exhibition impact analysis, and inventory optimization using Python, Streamlit, and machine learning.
 
 ## 🎯 Core Business Problems Solved
 
