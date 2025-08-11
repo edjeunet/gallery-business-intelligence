@@ -160,8 +160,7 @@ streamlit run dashboard/app.py
 
 ## 📱 Live Demo
 
-[View Live Dashboard]([https://your-streamlit-app-url.com](https://gallery-business-intelligence-edjeunet.streamlit.app/)) *(Deploy to Streamlit Cloud for public access)*
-
+[View Live Dashboard](https://gallery-business-intelligence-edjeunet.streamlit.app/)
 ## 👤 Author
 
 **edjeunet** - [GitHub](https://github.com/edjeunet)
