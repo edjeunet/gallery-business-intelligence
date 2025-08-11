@@ -164,7 +164,7 @@ streamlit run dashboard/app.py
 
 ## 👤 Author
 
-**Your Name** - [GitHub](https://github.com/edjeunet) | [LinkedIn](your-linkedin-url)
+**edjeunet** - [GitHub](https://github.com/edjeunet)
 
 ## 📄 License
 
